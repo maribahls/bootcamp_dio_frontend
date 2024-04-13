@@ -7,4 +7,4 @@ Um contador simples implementado em HTML, CSS e JavaScript.
 2. Clique no botão "+" para incrementar o contador.
 3. Clique no botão "-" para decrementar o contador.
 
-![contador](https://github.com/maribahls/bootcamp_dio_frontend/raw/main/contador/contador.jpg)
+![contador](https://github.com/maribahls/bootcamp_dio_frontend/raw/main/contador/assets/contador.jpg)
