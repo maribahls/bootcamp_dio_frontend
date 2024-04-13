@@ -1,0 +1,45 @@
+* {
+    font-family: Verdana, sans-serif;
+    color: #bb2233;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(250, 227, 207);
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid #bb2233;
+    background-color: #f5eee9;
+    color: #bb2233;
+    font-size: 16pt;
+    font-weight: 600;
+    text-align: center;
+}
+
+.container {
+    border: 5px solid #bb2233;
+    padding: 20px;
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
+}
