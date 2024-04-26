@@ -9,4 +9,4 @@ This project is a simple clone of the Netflix interface, built using HTML, CSS, 
 - Movie Carousel: A carousel displays a selection of movies.
 - Action Buttons: Buttons allow users to watch trailers on YouTube or obtain additional information on Instagram for the principal movie.
 
-![Interface Netflix](interface_netflix/resources/img/netflix_clone.gif)
+![interface Netflix](https://github.com/maribahls/bootcamp_dio_frontend/raw/main/interface_netflix/resources/img/netflix_clone.gif)
