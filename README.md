@@ -1,2 +1,2 @@
 # bootcamp_dio_frontend
-Projetos do Bootcamp da DIO.
+DIO Bootcamp projects.
